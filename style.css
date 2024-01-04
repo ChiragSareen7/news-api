@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Hairline&family=Cardo&family=Caveat:wght@700&family=Comfortaa:wght@300&family=Dancing+Script&family=Nunito+Sans:opsz,wght@6..12,300&family=Poppins:ital,wght@0,400;1,100&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(24, 142, 158);
+   }
+   
+   .article {
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(41, 56, 70);
+    margin: 2vw;
+    color: aliceblue;
+    border-radius: 2vw;
+   }
+   
+   img {
+    width: 100%;
+    
+   }
+   
+   h2 {
+    margin: 0;
+    padding: 10px ;
+   }
+   
+   p {
+    margin: 0;
+    padding: 10px ;
+   }
+   #data{
+    margin-left: 30%;
+   }
+   span{
+    font-family: cardo;
+    color: aliceblue;
+    font-size: 4vw;
+   }
+   .head{
+    background-color: aliceblue;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    justify-content: space-evenly;
+   }
+   li{
+    list-style: none;
+    font-weight: 700;
+    font-size: large;
+   }
